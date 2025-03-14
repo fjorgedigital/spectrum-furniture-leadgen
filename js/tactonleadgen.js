@@ -1343,7 +1343,7 @@ $(document).ready(function () {
 
     var config_vars = {
         "config": {
-            "api_key": "iVaHxl5Im6MhbJleI4q9nW0OO6rdxLB8",
+            "api_key": "",
             "config_url": "https://spectrumfurniture-admin.tactoncpq.com/!tickets~T-00000327/configurator-api/"
         },
         "product":{
