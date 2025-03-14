@@ -15,7 +15,7 @@ var $ = jQuery;
 
     var LG = {
         currentState: "",
-        resourcePath: "./",
+        resourcePath: "/",
         products: [],
         publicKey: "",
         configUrl: "",
@@ -1343,13 +1343,13 @@ $(document).ready(function () {
 
     var config_vars = {
         "config": {
-            "api_key": "LEADGEN_API_KEY",
-            "config_url": "https://CPQ_INSTANCE_URL/!tickets~T-00000001/configurator-api/"
+            "api_key": "iVaHxl5Im6MhbJleI4q9nW0OO6rdxLB8",
+            "config_url": "https://spectrumfurniture-admin.tactoncpq.com/!tickets~T-00000327/configurator-api/"
         },
         "product":{
             "product_name": "Product Name",
-            "product_id": "m34324cf3b9442e38a9d9db9897286fa",
-            "is_visualization_supported": "0",
+            "product_id": "m216d5a373e14d438cfecf58f0d970b9",
+            "is_visualization_supported": "1",
             "visualization_image": "",
             "visualization_group_name": "",
             "summary_group_name": "info",
